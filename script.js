@@ -50,7 +50,7 @@ proportion(10000, 2500)
 
 
 // extra task //
-// function minNum(...nums) {
-//   console.log(Math.min(...nums));
-// }
-// minNum(1, 2)
+function minNum(...nums) {
+  console.log(Math.min(...nums));
+}
+minNum(1, 2)
